@@ -20,7 +20,7 @@ I enjoy solving real-world problems through code and bringing ideas to life on t
  - 🐙 GitHub: https://github.com/hbalaji09
 
 # 😄 Pronouns: - he/him
-#⚡ Fun fact: 
+# ⚡ Fun fact: 
 I talk to snakes — well, Python at least.
 
 <!---
