@@ -15,9 +15,9 @@
      - Full-stack mini projects  
      - Web automation using Python
 # 📫 How to reach me 
-    - 📧 Email: haribalajikollikonda@gmail.com
-    - 🔗 LinkedIn: linkedin.com/in/haribalajikollikonda
-    - 🐙 GitHub: github.com/hbalaji09
+ - 📧 Email: haribalajikollikonda@gmail.com
+ - 🔗 LinkedIn: linkedin.com/in/haribalajikollikonda
+ - 🐙 GitHub: github.com/hbalaji09
 
 # 😄 Pronouns: - he/him
 #⚡ Fun fact: 
