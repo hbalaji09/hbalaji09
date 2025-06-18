@@ -2,8 +2,8 @@
 - 👀 I’m interested in Developing and Programming
 - 🌱 I’m currently learning Python Full Stack
 - 💞️ I’m looking to collaborate on Google
-- 📫 How to reach me @balajih00.09@gmail.com
-- 😄 Pronouns: -
+- 📫 How to reach me @haribalajikollikonda@gmail.com
+- 😄 Pronouns: - he/him
 - ⚡ Fun fact: Lazy in early stage of learning...
 
 <!---
